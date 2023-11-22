@@ -66,7 +66,27 @@ header {
 	font-size: 18px;
 	color: #e5e7eb;
 }
+#about h2 {
+	display: flex;
+	justify-content: center;
+	margin-top: 4vh;
+}
+.about-blurbs {
+	display: flex;
+	justify-content: center;
+}
 
+.blurb {
+	flex: 1;
+	margin: 0.5rem;
+}
+
+.blurb img {
+	border: #3882f6 2px solid;
+	border-radius: 4px;
+	height: auto;
+	width: 100%;
+}
 button {
 	border: #3882f6;
 	color: #e5e7eb;
