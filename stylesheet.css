@@ -1,0 +1,43 @@
+#hero {
+	background-color: #1f2937;
+}
+.hero-content h1 {
+	font-size: 48px;
+	font-weight: bold;
+	color: #f9faf8;
+}
+
+#logo {
+	font-size: 24px;
+	color: #f9faf8;
+}
+
+.header-link,
+.hero-content p {
+	font-size: 18px;
+	color: #e5e7eb;
+}
+
+#CTA,
+button {
+	background-color: #3882f6;
+}
+
+#about h2 {
+	font-size: 36px;
+	font-weight: bolder;
+	color: #1f2937;
+}
+
+#social-proof {
+	background-color: #e5e7eb;
+}
+
+#social-proof em {
+	font-size: 36px;
+	color: #1f2937;
+}
+
+footer {
+	background-color: #1f2937;
+}
